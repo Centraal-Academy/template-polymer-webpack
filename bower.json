@@ -1,0 +1,20 @@
+{
+  "name": "template-polymer-webpack",
+  "description": "Template to start to use polymer 2 with webpack",
+  "main": "",
+  "authors": [
+    "Joel Humberto Gómez Paredes <elmaildeldezkareid@gmail.com> (https://twitter.com/DezkaReid)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Centraal-Academy/template-polymer-webpack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  }
+}
